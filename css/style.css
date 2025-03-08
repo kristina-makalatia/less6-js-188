@@ -1,0 +1,17 @@
+/* .title-main {
+  color: red;
+} */
+
+.bodyClass {
+  background-color: lightblue;
+}
+.input-new {
+  border: 2px solid green;
+  background-color: lightseagreen;
+}
+
+.box {
+  width: 400px;
+  height: 400px;
+  border: 2px solid blue;
+}
